@@ -1,9 +1,8 @@
 ---
-title: Contact
+title: "Contact"
 order: 3
+in_menu: true
 ---
+Contact
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Vous pouvez nous appeler par téléphone ou visiter notre site internet https://www.aciah-linux.org/ 
