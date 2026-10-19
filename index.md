@@ -7,6 +7,10 @@ in_menu: true
 
 Un **petit café** pour commencer la semaine ?
 
-Je suis content de vous par de  **Scribouilli** et car je trouve cela génial !
+Je suis content de vous parler de  **Scribouilli** car je trouve cela génial !
 
 https://scribouilli.org/ 
+
+Il est possible de belles choses !
+
+Bonne journée. 
