@@ -11,6 +11,6 @@ Je suis content de vous parler de  **Scribouilli** car je trouve cela génial !
 
 https://scribouilli.org/ 
 
-Il est possible de belles choses !
+Il est possible de réaliser de belles choses !
 
 Bonne journée. 
