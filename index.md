@@ -3,6 +3,10 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-# L'Échappée Belle
+# Bonjour bonjour !
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**. 
+Un **petit café** pour commencer la semaine ?
+
+Je suis content de vous par de  **Scribouilli** et car je trouve cela génial !
+
+https://scribouilli.org/ 
