@@ -2,7 +2,7 @@
     --couleur-primaire : #2a6442;
 }
 
-h1 {
+:h1 {
   color: #ffff00;
   text-align: center;    /* centré */
   padding-bottom: 8px;
